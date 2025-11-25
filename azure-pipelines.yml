@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: PSL-4LK7R24
 
 steps:
 - script: echo Hello, world!
